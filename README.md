@@ -125,6 +125,7 @@ Gamification and Reward Systems
 👩‍💻 Team Members:
 
 Chinmayi Arna Jinaga (1CR24EC052)
+
 Anusha P (1CR24EC024)
 
 🔗 Project Link:
